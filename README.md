@@ -1,6 +1,6 @@
 # uBlock-Deluxe
 *Enhanced UI CSS overlay for uBlock Origin*
-
+https://github.com/Gitoffthelawn/uBlock-Deluxe/issues/8
 (If people express interest, regular uBlock support will come later.)
 
 Goals: Improved usability and accessibility
